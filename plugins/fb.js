@@ -67,7 +67,7 @@ Your fb video
         from,
         {
           image: {
-            url: "https://github.com/pasiya-MD/pasiya-MD/blob/main/images/fbdownloader.png?raw=true",
+            url: "https://ibb.co/bMjjZDND",
           },
           caption: desc,
         },

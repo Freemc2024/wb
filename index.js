@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `PASIYA-WhatsappBot connected ✅\n\nPREFIX: ${prefix}`;
       await pasiya.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `` },
+        image: { url: `https://ibb.co/bMjjZDND` },
         caption: up
       });
 
